@@ -1,0 +1,372 @@
+[
+  {
+    "key": "control-gwagwalada-town",
+    "kind": "control",
+    "cluster": "gwagwalada-town",
+    "place": "Gwagwalada town, FCT",
+    "state": "FCT",
+    "crop": "maize",
+    "areaHa": 1.251,
+    "photos": 243
+  },
+  {
+    "key": "control-kagoro-woodland",
+    "kind": "control",
+    "cluster": "kagoro-woodland",
+    "place": "Kagoro hills woodland, Kaduna",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 1.116,
+    "photos": 257
+  },
+  {
+    "key": "control-zuma",
+    "kind": "control",
+    "cluster": "zuma",
+    "place": "Zuma Rock, Niger State",
+    "state": "Niger State",
+    "crop": "maize",
+    "areaHa": 1.173,
+    "photos": 262
+  },
+  {
+    "key": "farm-bida-01",
+    "kind": "portfolio",
+    "cluster": "bida",
+    "place": "Bida",
+    "state": "Niger",
+    "crop": "rice",
+    "areaHa": 1.475,
+    "photos": 212
+  },
+  {
+    "key": "farm-bida-02",
+    "kind": "portfolio",
+    "cluster": "bida",
+    "place": "Bida",
+    "state": "Niger",
+    "crop": "maize",
+    "areaHa": 0.589,
+    "photos": 212
+  },
+  {
+    "key": "farm-bida-03",
+    "kind": "portfolio",
+    "cluster": "bida",
+    "place": "Bida",
+    "state": "Niger",
+    "crop": "rice",
+    "areaHa": 1.081,
+    "photos": 212
+  },
+  {
+    "key": "farm-bida-04",
+    "kind": "portfolio",
+    "cluster": "bida",
+    "place": "Bida",
+    "state": "Niger",
+    "crop": "rice",
+    "areaHa": 0.928,
+    "photos": 212
+  },
+  {
+    "key": "farm-bida-05",
+    "kind": "portfolio",
+    "cluster": "bida",
+    "place": "Bida",
+    "state": "Niger",
+    "crop": "maize",
+    "areaHa": 0.456,
+    "photos": 212
+  },
+  {
+    "key": "farm-kachia-01",
+    "kind": "portfolio",
+    "cluster": "kachia",
+    "place": "Kachia",
+    "state": "Kaduna",
+    "crop": "soybean",
+    "areaHa": 1.293,
+    "photos": 238
+  },
+  {
+    "key": "farm-kachia-02",
+    "kind": "portfolio",
+    "cluster": "kachia",
+    "place": "Kachia",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 0.886,
+    "photos": 238
+  },
+  {
+    "key": "farm-kachia-03",
+    "kind": "portfolio",
+    "cluster": "kachia",
+    "place": "Kachia",
+    "state": "Kaduna",
+    "crop": "sorghum",
+    "areaHa": 1.266,
+    "photos": 213
+  },
+  {
+    "key": "farm-kachia-04",
+    "kind": "portfolio",
+    "cluster": "kachia",
+    "place": "Kachia",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 0.857,
+    "photos": 238
+  },
+  {
+    "key": "farm-kachia-05",
+    "kind": "portfolio",
+    "cluster": "kachia",
+    "place": "Kachia",
+    "state": "Kaduna",
+    "crop": "soybean",
+    "areaHa": 0.792,
+    "photos": 238
+  },
+  {
+    "key": "farm-kachia-06",
+    "kind": "portfolio",
+    "cluster": "kachia",
+    "place": "Kachia",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 0.772,
+    "photos": 213
+  },
+  {
+    "key": "farm-kachia-07",
+    "kind": "portfolio",
+    "cluster": "kachia",
+    "place": "Kachia",
+    "state": "Kaduna",
+    "crop": "sorghum",
+    "areaHa": 0.929,
+    "photos": 238
+  },
+  {
+    "key": "farm-kachia-08",
+    "kind": "portfolio",
+    "cluster": "kachia",
+    "place": "Kachia",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 1.8,
+    "photos": 213
+  },
+  {
+    "key": "farm-kuje-01",
+    "kind": "portfolio",
+    "cluster": "kuje",
+    "place": "Kuje",
+    "state": "FCT",
+    "crop": "soybean",
+    "areaHa": 1.17,
+    "photos": 229
+  },
+  {
+    "key": "farm-kuje-02",
+    "kind": "portfolio",
+    "cluster": "kuje",
+    "place": "Kuje",
+    "state": "FCT",
+    "crop": "sorghum",
+    "areaHa": 0.838,
+    "photos": 229
+  },
+  {
+    "key": "farm-kuje-03",
+    "kind": "portfolio",
+    "cluster": "kuje",
+    "place": "Kuje",
+    "state": "FCT",
+    "crop": "maize",
+    "areaHa": 0.749,
+    "photos": 229
+  },
+  {
+    "key": "farm-kuje-04",
+    "kind": "portfolio",
+    "cluster": "kuje",
+    "place": "Kuje",
+    "state": "FCT",
+    "crop": "maize",
+    "areaHa": 1.6,
+    "photos": 229
+  },
+  {
+    "key": "farm-kuje-05",
+    "kind": "portfolio",
+    "cluster": "kuje",
+    "place": "Kuje",
+    "state": "FCT",
+    "crop": "soybean",
+    "areaHa": 1.357,
+    "photos": 229
+  },
+  {
+    "key": "farm-kuje-06",
+    "kind": "portfolio",
+    "cluster": "kuje",
+    "place": "Kuje",
+    "state": "FCT",
+    "crop": "sorghum",
+    "areaHa": 0.903,
+    "photos": 229
+  },
+  {
+    "key": "farm-kuje-07",
+    "kind": "portfolio",
+    "cluster": "kuje",
+    "place": "Kuje",
+    "state": "FCT",
+    "crop": "maize",
+    "areaHa": 1.304,
+    "photos": 229
+  },
+  {
+    "key": "farm-zaria-01",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "sorghum",
+    "areaHa": 1.181,
+    "photos": 228
+  },
+  {
+    "key": "farm-zaria-02",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "soybean",
+    "areaHa": 1.55,
+    "photos": 228
+  },
+  {
+    "key": "farm-zaria-03",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 1.02,
+    "photos": 228
+  },
+  {
+    "key": "farm-zaria-04",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "groundnut",
+    "areaHa": 0.889,
+    "photos": 228
+  },
+  {
+    "key": "farm-zaria-05",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 1.16,
+    "photos": 228
+  },
+  {
+    "key": "farm-zaria-06",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "sorghum",
+    "areaHa": 1.273,
+    "photos": 228
+  },
+  {
+    "key": "farm-zaria-07",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "soybean",
+    "areaHa": 0.951,
+    "photos": 228
+  },
+  {
+    "key": "farm-zaria-08",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 0.905,
+    "photos": 228
+  },
+  {
+    "key": "farm-zaria-09",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "groundnut",
+    "areaHa": 0.994,
+    "photos": 228
+  },
+  {
+    "key": "farm-zaria-10",
+    "kind": "portfolio",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 1.76,
+    "photos": 228
+  },
+  {
+    "key": "showcase-bida",
+    "kind": "showcase",
+    "cluster": "bida",
+    "place": "Bida",
+    "state": "Niger",
+    "crop": "rice",
+    "areaHa": 1.487,
+    "photos": 246
+  },
+  {
+    "key": "showcase-kachia",
+    "kind": "showcase",
+    "cluster": "kachia",
+    "place": "Kachia",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 1.087,
+    "photos": 273
+  },
+  {
+    "key": "showcase-kuje",
+    "kind": "showcase",
+    "cluster": "kuje",
+    "place": "Kuje",
+    "state": "FCT",
+    "crop": "maize",
+    "areaHa": 1.425,
+    "photos": 263
+  },
+  {
+    "key": "showcase-zaria",
+    "kind": "showcase",
+    "cluster": "zaria",
+    "place": "Samaru, Zaria",
+    "state": "Kaduna",
+    "crop": "maize",
+    "areaHa": 1.6,
+    "photos": 263
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "name": "skyscore",
+  "private": true,
+  "type": "module",
+  "description": "SkyScore: credit for young farmers, underwritten from space. Team Tensor Labs, InnovateX 2026.",
+  "workspaces": [
+    "packages/engine",
+    "packages/satellite",
+    "apps/api",
+    "apps/web",
+    "scripts"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c blue,green \"npm:dev -w @skyscore/api\" \"npm:dev -w @skyscore/web\"",
+    "build": "npm run build -w @skyscore/web",
+    "start": "npm run build && npm run start -w @skyscore/api",
+    "serve": "npm run start -w @skyscore/api",
+    "seed": "npm run seed -w @skyscore/api",
+    "test": "npm test -w @skyscore/engine && npm test -w @skyscore/api",
+    "typecheck": "npm run typecheck -w @skyscore/engine && npm run typecheck -w @skyscore/satellite && npm run typecheck -w @skyscore/api && npm run typecheck -w @skyscore/web",
+    "find-farms": "npm run find-farms -w @skyscore/scripts",
+    "snapshots": "npm run snapshots -w @skyscore/scripts",
+    "build:field": "cd apps/field && flutter build web --release --base-href /field/ --no-web-resources-cdn && node ../../scripts/copy-field.mjs",
+    "icons": "node scripts/make-icons.mjs",
+    "monitor-report": "npm run monitor-report -w @skyscore/scripts",
+    "build:vercel": "node scripts/build-vercel.mjs"
+  },
+  "devDependencies": {
+    "concurrently": "10.0.6",
+    "esbuild": "0.28.2",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}

@@ -1,0 +1,2330 @@
+{
+  "clusters": [
+    {
+      "key": "zaria",
+      "name": "Samaru, Zaria",
+      "state": "Kaduna",
+      "centre": [
+        7.62,
+        11.05
+      ]
+    },
+    {
+      "key": "kachia",
+      "name": "Kachia",
+      "state": "Kaduna",
+      "centre": [
+        7.95,
+        9.87
+      ]
+    },
+    {
+      "key": "bida",
+      "name": "Bida",
+      "state": "Niger",
+      "centre": [
+        6.01,
+        9.08
+      ]
+    },
+    {
+      "key": "kuje",
+      "name": "Kuje",
+      "state": "FCT",
+      "centre": [
+        7.23,
+        8.88
+      ]
+    }
+  ],
+  "results": {
+    "zaria": [
+      {
+        "centre": [
+          7.62,
+          11.05
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.60068,
+          11.05
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.60712,
+          11.0437
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.60712,
+          11.0311
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.60068,
+          11.0437
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.60712,
+          11.0374
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.60712,
+          11.0563
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.60068,
+          11.0626
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.61356,
+          11.05
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.61356,
+          11.0374
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.61356,
+          11.0689
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.62,
+          11.0374
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.61356,
+          11.0437
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.62,
+          11.0311
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.62,
+          11.0437
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.62,
+          11.0689
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.62644,
+          11.0374
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.61356,
+          11.0311
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.60068,
+          11.0374
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.63288,
+          11.0437
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.63288,
+          11.0563
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.63932,
+          11.05
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.63288,
+          11.0689
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.63932,
+          11.0563
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.62644,
+          11.0626
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.63932,
+          11.0626
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.63288,
+          11.0626
+        ],
+        "crop": 0.993,
+        "classes": {
+          "shrubland": 0.007,
+          "cropland": 0.993
+        }
+      },
+      {
+        "centre": [
+          7.63932,
+          11.0437
+        ],
+        "crop": 0.992,
+        "classes": {
+          "shrubland": 0.008,
+          "cropland": 0.992
+        }
+      },
+      {
+        "centre": [
+          7.60068,
+          11.0563
+        ],
+        "crop": 0.985,
+        "classes": {
+          "cropland": 0.985,
+          "built-up": 0.015
+        }
+      },
+      {
+        "centre": [
+          7.63932,
+          11.0311
+        ],
+        "crop": 0.972,
+        "classes": {
+          "grassland": 0.028,
+          "cropland": 0.972
+        }
+      },
+      {
+        "centre": [
+          7.61356,
+          11.0626
+        ],
+        "crop": 0.958,
+        "classes": {
+          "shrubland": 0.042,
+          "cropland": 0.958
+        }
+      },
+      {
+        "centre": [
+          7.63288,
+          11.0311
+        ],
+        "crop": 0.924,
+        "classes": {
+          "grassland": 0.076,
+          "cropland": 0.924
+        }
+      },
+      {
+        "centre": [
+          7.63932,
+          11.0374
+        ],
+        "crop": 0.917,
+        "classes": {
+          "shrubland": 0.076,
+          "grassland": 0.007,
+          "cropland": 0.917
+        }
+      },
+      {
+        "centre": [
+          7.63288,
+          11.0374
+        ],
+        "crop": 0.896,
+        "classes": {
+          "grassland": 0.104,
+          "cropland": 0.896
+        }
+      },
+      {
+        "centre": [
+          7.63288,
+          11.05
+        ],
+        "crop": 0.882,
+        "classes": {
+          "shrubland": 0.028,
+          "cropland": 0.882,
+          "built-up": 0.09
+        }
+      },
+      {
+        "centre": [
+          7.60068,
+          11.0689
+        ],
+        "crop": 0.868,
+        "classes": {
+          "cropland": 0.868,
+          "built-up": 0.132
+        }
+      },
+      {
+        "centre": [
+          7.63932,
+          11.0689
+        ],
+        "crop": 0.792,
+        "classes": {
+          "grassland": 0.208,
+          "cropland": 0.792
+        }
+      },
+      {
+        "centre": [
+          7.62644,
+          11.0437
+        ],
+        "crop": 0.78,
+        "classes": {
+          "cropland": 0.78,
+          "built-up": 0.22
+        }
+      },
+      {
+        "centre": [
+          7.62644,
+          11.0311
+        ],
+        "crop": 0.764,
+        "classes": {
+          "grassland": 0.236,
+          "cropland": 0.764
+        }
+      },
+      {
+        "centre": [
+          7.62644,
+          11.0689
+        ],
+        "crop": 0.757,
+        "classes": {
+          "cropland": 0.757,
+          "built-up": 0.243
+        }
+      },
+      {
+        "centre": [
+          7.60712,
+          11.05
+        ],
+        "crop": 0.715,
+        "classes": {
+          "grassland": 0.236,
+          "cropland": 0.715,
+          "built-up": 0.049
+        }
+      },
+      {
+        "centre": [
+          7.62,
+          11.0563
+        ],
+        "crop": 0.583,
+        "classes": {
+          "grassland": 0.417,
+          "cropland": 0.583
+        }
+      },
+      {
+        "centre": [
+          7.62644,
+          11.05
+        ],
+        "crop": 0.583,
+        "classes": {
+          "grassland": 0.375,
+          "cropland": 0.583,
+          "built-up": 0.007,
+          "bare": 0.035
+        }
+      },
+      {
+        "centre": [
+          7.62,
+          11.0626
+        ],
+        "crop": 0.458,
+        "classes": {
+          "grassland": 0.007,
+          "cropland": 0.458,
+          "built-up": 0.535
+        }
+      },
+      {
+        "centre": [
+          7.61356,
+          11.0563
+        ],
+        "crop": 0.273,
+        "classes": {
+          "shrubland": 0.083,
+          "grassland": 0.644,
+          "cropland": 0.273
+        }
+      },
+      {
+        "centre": [
+          7.62644,
+          11.0563
+        ],
+        "crop": 0.25,
+        "classes": {
+          "trees": 0.038,
+          "shrubland": 0.098,
+          "grassland": 0.379,
+          "cropland": 0.25,
+          "bare": 0.235
+        }
+      },
+      {
+        "centre": [
+          7.60712,
+          11.0689
+        ],
+        "crop": 0.188,
+        "classes": {
+          "shrubland": 0.722,
+          "grassland": 0.09,
+          "cropland": 0.188
+        }
+      },
+      {
+        "centre": [
+          7.60712,
+          11.0626
+        ],
+        "crop": 0.063,
+        "classes": {
+          "shrubland": 0.382,
+          "grassland": 0.556,
+          "cropland": 0.063
+        }
+      },
+      {
+        "centre": [
+          7.60068,
+          11.0311
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.063,
+          "shrubland": 0.938
+        }
+      }
+    ],
+    "kachia": [
+      {
+        "centre": [
+          7.93089,
+          9.87
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.93726,
+          9.8637
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.93726,
+          9.87
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.94363,
+          9.8511
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.93726,
+          9.8763
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.94363,
+          9.87
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.95,
+          9.8574
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.95,
+          9.8826
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.95637,
+          9.8511
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.95637,
+          9.8574
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.96274,
+          9.8511
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.96274,
+          9.8763
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.95637,
+          9.8889
+        ],
+        "crop": 0.993,
+        "classes": {
+          "cropland": 0.993,
+          "built-up": 0.007
+        }
+      },
+      {
+        "centre": [
+          7.96911,
+          9.8826
+        ],
+        "crop": 0.993,
+        "classes": {
+          "cropland": 0.993,
+          "bare": 0.007
+        }
+      },
+      {
+        "centre": [
+          7.93726,
+          9.8511
+        ],
+        "crop": 0.986,
+        "classes": {
+          "grassland": 0.014,
+          "cropland": 0.986
+        }
+      },
+      {
+        "centre": [
+          7.95,
+          9.8889
+        ],
+        "crop": 0.972,
+        "classes": {
+          "grassland": 0.028,
+          "cropland": 0.972
+        }
+      },
+      {
+        "centre": [
+          7.96911,
+          9.8574
+        ],
+        "crop": 0.951,
+        "classes": {
+          "shrubland": 0.014,
+          "grassland": 0.014,
+          "cropland": 0.951,
+          "built-up": 0.021
+        }
+      },
+      {
+        "centre": [
+          7.93089,
+          9.8826
+        ],
+        "crop": 0.944,
+        "classes": {
+          "grassland": 0.056,
+          "cropland": 0.944
+        }
+      },
+      {
+        "centre": [
+          7.96274,
+          9.8637
+        ],
+        "crop": 0.932,
+        "classes": {
+          "grassland": 0.068,
+          "cropland": 0.932
+        }
+      },
+      {
+        "centre": [
+          7.96274,
+          9.8826
+        ],
+        "crop": 0.924,
+        "classes": {
+          "grassland": 0.069,
+          "cropland": 0.924,
+          "built-up": 0.007
+        }
+      },
+      {
+        "centre": [
+          7.96911,
+          9.87
+        ],
+        "crop": 0.903,
+        "classes": {
+          "shrubland": 0.042,
+          "cropland": 0.903,
+          "built-up": 0.056
+        }
+      },
+      {
+        "centre": [
+          7.95,
+          9.87
+        ],
+        "crop": 0.889,
+        "classes": {
+          "shrubland": 0.083,
+          "grassland": 0.028,
+          "cropland": 0.889
+        }
+      },
+      {
+        "centre": [
+          7.96911,
+          9.8889
+        ],
+        "crop": 0.875,
+        "classes": {
+          "shrubland": 0.125,
+          "cropland": 0.875
+        }
+      },
+      {
+        "centre": [
+          7.94363,
+          9.8826
+        ],
+        "crop": 0.847,
+        "classes": {
+          "grassland": 0.153,
+          "cropland": 0.847
+        }
+      },
+      {
+        "centre": [
+          7.96274,
+          9.8574
+        ],
+        "crop": 0.819,
+        "classes": {
+          "trees": 0.076,
+          "shrubland": 0.014,
+          "grassland": 0.09,
+          "cropland": 0.819
+        }
+      },
+      {
+        "centre": [
+          7.96274,
+          9.8889
+        ],
+        "crop": 0.813,
+        "classes": {
+          "grassland": 0.188,
+          "cropland": 0.813
+        }
+      },
+      {
+        "centre": [
+          7.93726,
+          9.8826
+        ],
+        "crop": 0.778,
+        "classes": {
+          "grassland": 0.208,
+          "cropland": 0.778,
+          "built-up": 0.014
+        }
+      },
+      {
+        "centre": [
+          7.94363,
+          9.8574
+        ],
+        "crop": 0.729,
+        "classes": {
+          "shrubland": 0.049,
+          "grassland": 0.118,
+          "cropland": 0.729,
+          "built-up": 0.104
+        }
+      },
+      {
+        "centre": [
+          7.93089,
+          9.8637
+        ],
+        "crop": 0.712,
+        "classes": {
+          "shrubland": 0.053,
+          "grassland": 0.227,
+          "cropland": 0.712,
+          "built-up": 0.008
+        }
+      },
+      {
+        "centre": [
+          7.94363,
+          9.8889
+        ],
+        "crop": 0.701,
+        "classes": {
+          "shrubland": 0.132,
+          "grassland": 0.083,
+          "cropland": 0.701,
+          "built-up": 0.083
+        }
+      },
+      {
+        "centre": [
+          7.96274,
+          9.87
+        ],
+        "crop": 0.701,
+        "classes": {
+          "shrubland": 0.299,
+          "cropland": 0.701
+        }
+      },
+      {
+        "centre": [
+          7.94363,
+          9.8637
+        ],
+        "crop": 0.636,
+        "classes": {
+          "trees": 0.015,
+          "shrubland": 0.008,
+          "grassland": 0.22,
+          "cropland": 0.636,
+          "built-up": 0.121
+        }
+      },
+      {
+        "centre": [
+          7.95637,
+          9.8637
+        ],
+        "crop": 0.538,
+        "classes": {
+          "shrubland": 0.462,
+          "cropland": 0.538
+        }
+      },
+      {
+        "centre": [
+          7.93089,
+          9.8511
+        ],
+        "crop": 0.521,
+        "classes": {
+          "grassland": 0.347,
+          "cropland": 0.521,
+          "built-up": 0.132
+        }
+      },
+      {
+        "centre": [
+          7.96911,
+          9.8511
+        ],
+        "crop": 0.41,
+        "classes": {
+          "trees": 0.222,
+          "shrubland": 0.208,
+          "grassland": 0.049,
+          "cropland": 0.41,
+          "built-up": 0.111
+        }
+      },
+      {
+        "centre": [
+          7.95,
+          9.8763
+        ],
+        "crop": 0.394,
+        "classes": {
+          "trees": 0.091,
+          "grassland": 0.174,
+          "cropland": 0.394,
+          "built-up": 0.242,
+          "bare": 0.098
+        }
+      },
+      {
+        "centre": [
+          7.96911,
+          9.8763
+        ],
+        "crop": 0.311,
+        "classes": {
+          "shrubland": 0.689,
+          "cropland": 0.311
+        }
+      },
+      {
+        "centre": [
+          7.95,
+          9.8511
+        ],
+        "crop": 0.278,
+        "classes": {
+          "trees": 0.125,
+          "shrubland": 0.125,
+          "grassland": 0.042,
+          "cropland": 0.278,
+          "bare": 0.431
+        }
+      },
+      {
+        "centre": [
+          7.95637,
+          9.8826
+        ],
+        "crop": 0.257,
+        "classes": {
+          "trees": 0.188,
+          "shrubland": 0.042,
+          "grassland": 0.319,
+          "cropland": 0.257,
+          "built-up": 0.194
+        }
+      },
+      {
+        "centre": [
+          7.96911,
+          9.8637
+        ],
+        "crop": 0.227,
+        "classes": {
+          "grassland": 0.773,
+          "cropland": 0.227
+        }
+      },
+      {
+        "centre": [
+          7.95,
+          9.8637
+        ],
+        "crop": 0.121,
+        "classes": {
+          "trees": 0.045,
+          "shrubland": 0.061,
+          "grassland": 0.159,
+          "cropland": 0.121,
+          "built-up": 0.614
+        }
+      },
+      {
+        "centre": [
+          7.95637,
+          9.8763
+        ],
+        "crop": 0.106,
+        "classes": {
+          "grassland": 0.242,
+          "cropland": 0.106,
+          "built-up": 0.25,
+          "bare": 0.402
+        }
+      },
+      {
+        "centre": [
+          7.93089,
+          9.8889
+        ],
+        "crop": 0.076,
+        "classes": {
+          "trees": 0.097,
+          "shrubland": 0.41,
+          "grassland": 0.417,
+          "cropland": 0.076
+        }
+      },
+      {
+        "centre": [
+          7.94363,
+          9.8763
+        ],
+        "crop": 0.053,
+        "classes": {
+          "trees": 0.265,
+          "shrubland": 0.682,
+          "cropland": 0.053
+        }
+      },
+      {
+        "centre": [
+          7.93726,
+          9.8889
+        ],
+        "crop": 0.028,
+        "classes": {
+          "trees": 0.222,
+          "shrubland": 0.479,
+          "grassland": 0.271,
+          "cropland": 0.028
+        }
+      },
+      {
+        "centre": [
+          7.93089,
+          9.8574
+        ],
+        "crop": 0.014,
+        "classes": {
+          "shrubland": 0.056,
+          "grassland": 0.931,
+          "cropland": 0.014
+        }
+      },
+      {
+        "centre": [
+          7.93089,
+          9.8763
+        ],
+        "crop": 0,
+        "classes": {
+          "grassland": 1
+        }
+      },
+      {
+        "centre": [
+          7.93726,
+          9.8574
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.563,
+          "shrubland": 0.347,
+          "grassland": 0.056,
+          "bare": 0.035
+        }
+      },
+      {
+        "centre": [
+          7.95637,
+          9.87
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      }
+    ],
+    "bida": [
+      {
+        "centre": [
+          5.99726,
+          9.0674
+        ],
+        "crop": 0.986,
+        "classes": {
+          "grassland": 0.014,
+          "cropland": 0.986
+        }
+      },
+      {
+        "centre": [
+          6.02911,
+          9.0611
+        ],
+        "crop": 0.951,
+        "classes": {
+          "grassland": 0.049,
+          "cropland": 0.951
+        }
+      },
+      {
+        "centre": [
+          6.01637,
+          9.0989
+        ],
+        "crop": 0.75,
+        "classes": {
+          "grassland": 0.028,
+          "cropland": 0.75,
+          "built-up": 0.222
+        }
+      },
+      {
+        "centre": [
+          6.02911,
+          9.0737
+        ],
+        "crop": 0.712,
+        "classes": {
+          "shrubland": 0.258,
+          "grassland": 0.008,
+          "cropland": 0.712,
+          "built-up": 0.023
+        }
+      },
+      {
+        "centre": [
+          5.99726,
+          9.0989
+        ],
+        "crop": 0.681,
+        "classes": {
+          "shrubland": 0.104,
+          "grassland": 0.208,
+          "cropland": 0.681,
+          "built-up": 0.007
+        }
+      },
+      {
+        "centre": [
+          6.01637,
+          9.0611
+        ],
+        "crop": 0.632,
+        "classes": {
+          "trees": 0.007,
+          "shrubland": 0.083,
+          "grassland": 0.264,
+          "cropland": 0.632,
+          "built-up": 0.014
+        }
+      },
+      {
+        "centre": [
+          6.02911,
+          9.0674
+        ],
+        "crop": 0.569,
+        "classes": {
+          "shrubland": 0.257,
+          "grassland": 0.174,
+          "cropland": 0.569
+        }
+      },
+      {
+        "centre": [
+          6.02274,
+          9.0737
+        ],
+        "crop": 0.205,
+        "classes": {
+          "trees": 0.023,
+          "shrubland": 0.083,
+          "grassland": 0.523,
+          "cropland": 0.205,
+          "built-up": 0.159,
+          "bare": 0.008
+        }
+      },
+      {
+        "centre": [
+          6.02911,
+          9.0926
+        ],
+        "crop": 0.111,
+        "classes": {
+          "trees": 0.222,
+          "shrubland": 0.667,
+          "cropland": 0.111
+        }
+      },
+      {
+        "centre": [
+          5.99089,
+          9.0926
+        ],
+        "crop": 0.104,
+        "classes": {
+          "grassland": 0.139,
+          "cropland": 0.104,
+          "built-up": 0.757
+        }
+      },
+      {
+        "centre": [
+          5.99726,
+          9.0737
+        ],
+        "crop": 0.068,
+        "classes": {
+          "trees": 0.03,
+          "grassland": 0.061,
+          "cropland": 0.068,
+          "built-up": 0.841
+        }
+      },
+      {
+        "centre": [
+          6.02911,
+          9.08
+        ],
+        "crop": 0.063,
+        "classes": {
+          "shrubland": 0.076,
+          "grassland": 0.403,
+          "cropland": 0.063,
+          "built-up": 0.431,
+          "bare": 0.028
+        }
+      },
+      {
+        "centre": [
+          6.02274,
+          9.0989
+        ],
+        "crop": 0.056,
+        "classes": {
+          "trees": 0.007,
+          "cropland": 0.056,
+          "built-up": 0.938
+        }
+      },
+      {
+        "centre": [
+          5.99089,
+          9.0863
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          5.99089,
+          9.0674
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.069,
+          "built-up": 0.931
+        }
+      },
+      {
+        "centre": [
+          5.99089,
+          9.0737
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.098,
+          "shrubland": 0.114,
+          "built-up": 0.788
+        }
+      },
+      {
+        "centre": [
+          5.99089,
+          9.08
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.007,
+          "built-up": 0.993
+        }
+      },
+      {
+        "centre": [
+          5.99726,
+          9.0863
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          5.99726,
+          9.0926
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          5.99089,
+          9.0989
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          5.99726,
+          9.0611
+        ],
+        "crop": 0,
+        "classes": {
+          "grassland": 0.014,
+          "built-up": 0.986
+        }
+      },
+      {
+        "centre": [
+          6.00363,
+          9.0611
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.021,
+          "grassland": 0.139,
+          "built-up": 0.826,
+          "bare": 0.014
+        }
+      },
+      {
+        "centre": [
+          6.00363,
+          9.0674
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.00363,
+          9.0926
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.00363,
+          9.0863
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.00363,
+          9.0737
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.01,
+          9.0674
+        ],
+        "crop": 0,
+        "classes": {
+          "grassland": 0.007,
+          "built-up": 0.993
+        }
+      },
+      {
+        "centre": [
+          6.00363,
+          9.08
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.01,
+          9.0737
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.01,
+          9.0611
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.722,
+          "grassland": 0.021,
+          "built-up": 0.257
+        }
+      },
+      {
+        "centre": [
+          6.00363,
+          9.0989
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.01,
+          9.08
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          5.99726,
+          9.08
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.076,
+          "built-up": 0.924
+        }
+      },
+      {
+        "centre": [
+          6.01,
+          9.0926
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.01,
+          9.0989
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.007,
+          "built-up": 0.993
+        }
+      },
+      {
+        "centre": [
+          6.01,
+          9.0863
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.01637,
+          9.0674
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.01637,
+          9.0737
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.386,
+          "built-up": 0.614
+        }
+      },
+      {
+        "centre": [
+          6.01637,
+          9.0926
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          6.02274,
+          9.0611
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.618,
+          "shrubland": 0.285,
+          "built-up": 0.097
+        }
+      },
+      {
+        "centre": [
+          6.01637,
+          9.0863
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.402,
+          "built-up": 0.598
+        }
+      },
+      {
+        "centre": [
+          6.02274,
+          9.0674
+        ],
+        "crop": 0,
+        "classes": {
+          "shrubland": 0.007,
+          "grassland": 0.993
+        }
+      },
+      {
+        "centre": [
+          6.02274,
+          9.08
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          5.99089,
+          9.0611
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.139,
+          "shrubland": 0.229,
+          "grassland": 0.146,
+          "built-up": 0.486
+        }
+      },
+      {
+        "centre": [
+          6.01637,
+          9.08
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.625,
+          "shrubland": 0.104,
+          "built-up": 0.271
+        }
+      },
+      {
+        "centre": [
+          6.02274,
+          9.0863
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.182,
+          "built-up": 0.818
+        }
+      },
+      {
+        "centre": [
+          6.02911,
+          9.0863
+        ],
+        "crop": 0,
+        "classes": {
+          "grassland": 0.098,
+          "built-up": 0.902
+        }
+      },
+      {
+        "centre": [
+          6.02274,
+          9.0926
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.007,
+          "grassland": 0.021,
+          "built-up": 0.972
+        }
+      },
+      {
+        "centre": [
+          6.02911,
+          9.0989
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.132,
+          "shrubland": 0.111,
+          "grassland": 0.063,
+          "built-up": 0.694
+        }
+      }
+    ],
+    "kuje": [
+      {
+        "centre": [
+          7.22363,
+          8.8989
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.24274,
+          8.8989
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.24911,
+          8.8863
+        ],
+        "crop": 1,
+        "classes": {
+          "cropland": 1
+        }
+      },
+      {
+        "centre": [
+          7.21089,
+          8.8674
+        ],
+        "crop": 0.965,
+        "classes": {
+          "grassland": 0.035,
+          "cropland": 0.965
+        }
+      },
+      {
+        "centre": [
+          7.22363,
+          8.8611
+        ],
+        "crop": 0.965,
+        "classes": {
+          "trees": 0.007,
+          "shrubland": 0.028,
+          "cropland": 0.965
+        }
+      },
+      {
+        "centre": [
+          7.23,
+          8.8926
+        ],
+        "crop": 0.882,
+        "classes": {
+          "grassland": 0.021,
+          "cropland": 0.882,
+          "built-up": 0.097
+        }
+      },
+      {
+        "centre": [
+          7.24274,
+          8.8926
+        ],
+        "crop": 0.847,
+        "classes": {
+          "trees": 0.118,
+          "cropland": 0.847,
+          "built-up": 0.035
+        }
+      },
+      {
+        "centre": [
+          7.21726,
+          8.8611
+        ],
+        "crop": 0.778,
+        "classes": {
+          "trees": 0.222,
+          "cropland": 0.778
+        }
+      },
+      {
+        "centre": [
+          7.22363,
+          8.8674
+        ],
+        "crop": 0.764,
+        "classes": {
+          "grassland": 0.236,
+          "cropland": 0.764
+        }
+      },
+      {
+        "centre": [
+          7.24911,
+          8.8989
+        ],
+        "crop": 0.708,
+        "classes": {
+          "grassland": 0.007,
+          "cropland": 0.708,
+          "built-up": 0.285
+        }
+      },
+      {
+        "centre": [
+          7.24274,
+          8.88
+        ],
+        "crop": 0.583,
+        "classes": {
+          "grassland": 0.028,
+          "cropland": 0.583,
+          "built-up": 0.382,
+          "bare": 0.007
+        }
+      },
+      {
+        "centre": [
+          7.23,
+          8.8674
+        ],
+        "crop": 0.576,
+        "classes": {
+          "trees": 0.049,
+          "shrubland": 0.319,
+          "grassland": 0.056,
+          "cropland": 0.576
+        }
+      },
+      {
+        "centre": [
+          7.23,
+          8.8989
+        ],
+        "crop": 0.576,
+        "classes": {
+          "grassland": 0.056,
+          "cropland": 0.576,
+          "built-up": 0.368
+        }
+      },
+      {
+        "centre": [
+          7.24274,
+          8.8863
+        ],
+        "crop": 0.576,
+        "classes": {
+          "grassland": 0.091,
+          "cropland": 0.576,
+          "built-up": 0.333
+        }
+      },
+      {
+        "centre": [
+          7.21089,
+          8.8611
+        ],
+        "crop": 0.514,
+        "classes": {
+          "shrubland": 0.035,
+          "grassland": 0.451,
+          "cropland": 0.514
+        }
+      },
+      {
+        "centre": [
+          7.21726,
+          8.8674
+        ],
+        "crop": 0.493,
+        "classes": {
+          "trees": 0.361,
+          "shrubland": 0.063,
+          "grassland": 0.083,
+          "cropland": 0.493
+        }
+      },
+      {
+        "centre": [
+          7.23637,
+          8.8611
+        ],
+        "crop": 0.354,
+        "classes": {
+          "trees": 0.389,
+          "shrubland": 0.174,
+          "grassland": 0.069,
+          "cropland": 0.354,
+          "built-up": 0.014
+        }
+      },
+      {
+        "centre": [
+          7.24911,
+          8.88
+        ],
+        "crop": 0.319,
+        "classes": {
+          "trees": 0.653,
+          "shrubland": 0.021,
+          "cropland": 0.319,
+          "built-up": 0.007
+        }
+      },
+      {
+        "centre": [
+          7.21726,
+          8.8863
+        ],
+        "crop": 0.303,
+        "classes": {
+          "cropland": 0.303,
+          "built-up": 0.697
+        }
+      },
+      {
+        "centre": [
+          7.23637,
+          8.8926
+        ],
+        "crop": 0.215,
+        "classes": {
+          "trees": 0.313,
+          "grassland": 0.264,
+          "cropland": 0.215,
+          "built-up": 0.208
+        }
+      },
+      {
+        "centre": [
+          7.21726,
+          8.8989
+        ],
+        "crop": 0.153,
+        "classes": {
+          "trees": 0.243,
+          "shrubland": 0.34,
+          "grassland": 0.139,
+          "cropland": 0.153,
+          "built-up": 0.125
+        }
+      },
+      {
+        "centre": [
+          7.21089,
+          8.8989
+        ],
+        "crop": 0.146,
+        "classes": {
+          "trees": 0.097,
+          "cropland": 0.146,
+          "built-up": 0.757
+        }
+      },
+      {
+        "centre": [
+          7.24911,
+          8.8737
+        ],
+        "crop": 0.083,
+        "classes": {
+          "trees": 0.114,
+          "shrubland": 0.015,
+          "grassland": 0.038,
+          "cropland": 0.083,
+          "built-up": 0.75
+        }
+      },
+      {
+        "centre": [
+          7.23637,
+          8.8737
+        ],
+        "crop": 0.068,
+        "classes": {
+          "trees": 0.053,
+          "grassland": 0.167,
+          "cropland": 0.068,
+          "built-up": 0.712
+        }
+      },
+      {
+        "centre": [
+          7.21726,
+          8.8926
+        ],
+        "crop": 0.049,
+        "classes": {
+          "grassland": 0.021,
+          "cropland": 0.049,
+          "built-up": 0.931
+        }
+      },
+      {
+        "centre": [
+          7.21089,
+          8.8737
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          7.21089,
+          8.8926
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.118,
+          "grassland": 0.063,
+          "built-up": 0.813,
+          "bare": 0.007
+        }
+      },
+      {
+        "centre": [
+          7.21089,
+          8.8863
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          7.21089,
+          8.88
+        ],
+        "crop": 0,
+        "classes": {
+          "grassland": 0.007,
+          "built-up": 0.993
+        }
+      },
+      {
+        "centre": [
+          7.21726,
+          8.8737
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.333,
+          "shrubland": 0.341,
+          "grassland": 0.326
+        }
+      },
+      {
+        "centre": [
+          7.21726,
+          8.88
+        ],
+        "crop": 0,
+        "classes": {
+          "grassland": 0.042,
+          "built-up": 0.951,
+          "bare": 0.007
+        }
+      },
+      {
+        "centre": [
+          7.22363,
+          8.8863
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.106,
+          "built-up": 0.894
+        }
+      },
+      {
+        "centre": [
+          7.22363,
+          8.8926
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          7.23,
+          8.8737
+        ],
+        "crop": 0,
+        "classes": {
+          "grassland": 0.28,
+          "built-up": 0.636,
+          "bare": 0.083
+        }
+      },
+      {
+        "centre": [
+          7.23,
+          8.8611
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.021,
+          "built-up": 0.979
+        }
+      },
+      {
+        "centre": [
+          7.22363,
+          8.88
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          7.22363,
+          8.8737
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          7.23,
+          8.88
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          7.23,
+          8.8863
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          7.23637,
+          8.8674
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.451,
+          "built-up": 0.549
+        }
+      },
+      {
+        "centre": [
+          7.23637,
+          8.88
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 1
+        }
+      },
+      {
+        "centre": [
+          7.24274,
+          8.8611
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.75,
+          "shrubland": 0.222,
+          "grassland": 0.028
+        }
+      },
+      {
+        "centre": [
+          7.23637,
+          8.8863
+        ],
+        "crop": 0,
+        "classes": {
+          "built-up": 0.955,
+          "bare": 0.045
+        }
+      },
+      {
+        "centre": [
+          7.23637,
+          8.8989
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.965,
+          "shrubland": 0.035
+        }
+      },
+      {
+        "centre": [
+          7.24274,
+          8.8674
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.833,
+          "shrubland": 0.035,
+          "grassland": 0.028,
+          "built-up": 0.104
+        }
+      },
+      {
+        "centre": [
+          7.24274,
+          8.8737
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.871,
+          "shrubland": 0.008,
+          "grassland": 0.121
+        }
+      },
+      {
+        "centre": [
+          7.24911,
+          8.8611
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.299,
+          "shrubland": 0.701
+        }
+      },
+      {
+        "centre": [
+          7.24911,
+          8.8674
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.035,
+          "built-up": 0.965
+        }
+      },
+      {
+        "centre": [
+          7.24911,
+          8.8926
+        ],
+        "crop": 0,
+        "classes": {
+          "trees": 0.014,
+          "shrubland": 0.049,
+          "grassland": 0.264,
+          "built-up": 0.625,
+          "bare": 0.049
+        }
+      }
+    ]
+  },
+  "controls": [
+    {
+      "key": "zuma",
+      "name": "Zuma Rock, Niger State",
+      "centre": [
+        7.2287,
+        9.1269
+      ],
+      "want": "bare",
+      "best": {
+        "centre": [
+          7.22597,
+          9.1269
+        ],
+        "share": 0,
+        "classes": {
+          "shrubland": 0.729,
+          "grassland": 0.271
+        }
+      }
+    },
+    {
+      "key": "gwagwalada-town",
+      "name": "Gwagwalada town, FCT",
+      "centre": [
+        7.08,
+        8.95
+      ],
+      "want": "built-up",
+      "best": {
+        "centre": [
+          7.08,
+          8.95
+        ],
+        "share": 1,
+        "classes": {
+          "built-up": 1
+        }
+      }
+    },
+    {
+      "key": "kagoro-woodland",
+      "name": "Kagoro hills woodland, Kaduna",
+      "centre": [
+        8.39,
+        9.6
+      ],
+      "want": "trees",
+      "best": {
+        "centre": [
+          8.39273,
+          9.6
+        ],
+        "share": 0.701,
+        "classes": {
+          "trees": 0.701,
+          "shrubland": 0.236,
+          "grassland": 0.007,
+          "cropland": 0.056
+        }
+      }
+    }
+  ]
+}

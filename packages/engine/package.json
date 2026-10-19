@@ -1,0 +1,18 @@
+{
+  "name": "@skyscore/engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SkyScore analysis, scoring, offer, monitoring and ledger logic. Pure functions, no I/O.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "vitest": "5.0.5"
+  }
+}

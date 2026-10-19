@@ -1,0 +1,28 @@
+{
+  "name": "@skyscore/api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SkyScore REST API: farmers, farms, satellite analysis jobs, applications, loans, vouchers, USSD and the bank console backend.",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts",
+    "seed": "tsx src/seed/run.ts",
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@hono/node-server": "2.1.5",
+    "@scalar/hono-api-reference": "0.12.13",
+    "@skyscore/engine": "*",
+    "@skyscore/satellite": "*",
+    "hono": "4.13.13",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "vitest": "5.0.5"
+  }
+}

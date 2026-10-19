@@ -1,0 +1,20 @@
+{
+  "name": "@skyscore/satellite",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Clients for Sentinel-2/Sentinel-1/land cover (Microsoft Planetary Computer) and NASA POWER rainfall, with retries and a pluggable cache.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@skyscore/engine": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "typescript": "5.9.3"
+  }
+}

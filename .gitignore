@@ -1,0 +1,31 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# runtime data (rebuilt by `npm run seed`)
+data/skyscore.db
+data/skyscore.db-*
+data/cache/
+
+# flutter
+apps/field/build/
+apps/field/.dart_tool/
+apps/field/.flutter-plugins
+apps/field/.flutter-plugins-dependencies
+apps/field/android/.gradle/
+apps/field/android/local.properties
+apps/field/ios/Pods/
+apps/field/windows/flutter/ephemeral/
+apps/field/linux/flutter/ephemeral/
+apps/field/macos/Flutter/ephemeral/
+
+# Flutter debug symbols (not needed to run the field app)
+apps/web/public/field/**/*.symbols
+# Logs from snapshot builds
+data/*.log
+data/.secret
+
+# Vercel build output (node scripts/build-vercel.mjs) and local Vercel CLI state
+.vercel/

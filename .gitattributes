@@ -1,0 +1,15 @@
+# Same line endings everywhere (the Vercel build runs on Linux)
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.ico binary
+*.ttf binary
+*.otf binary
+*.wasm binary
+*.db binary
+*.jar binary
+*.apk binary

@@ -1,0 +1,23 @@
+{
+  "name": "@skyscore/scripts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Find real farmland in Northern Nigeria and build the satellite snapshots the demo ships with.",
+  "scripts": {
+    "find-farms": "tsx find-farms.ts",
+    "snapshots": "tsx build-snapshots.ts",
+    "calibrate": "tsx calibrate.ts",
+    "monitor-report": "tsx monitor-report.ts",
+    "probe": "tsx probe-season.ts",
+    "icons": "node make-icons.mjs"
+  },
+  "dependencies": {
+    "@skyscore/engine": "*",
+    "@skyscore/satellite": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "tsx": "4.23.15"
+  }
+}
