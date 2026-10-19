@@ -41,6 +41,7 @@ export function MapView({ shapes = [], onSelect, selected, fit = true, center = 
   const drawLayer = useRef<L.LayerGroup | null>(null);
   const [verts, setVerts] = useState<LngLat[]>([]);
   const fittedKey = useRef("");
+  const pendingFit = useRef<{ bounds: L.LatLngBounds; maxZoom: number } | null>(null);
 
   // Create the map once.
   useEffect(() => {
@@ -63,7 +64,16 @@ export function MapView({ shapes = [], onSelect, selected, fit = true, center = 
     pointLayer.current = L.layerGroup().addTo(m);
     drawLayer.current = L.layerGroup().addTo(m);
     map.current = m;
-    const ro = new ResizeObserver(() => m.invalidateSize());
+    const ro = new ResizeObserver(() => {
+      m.invalidateSize();
+      // A fit requested while the map had no size (hidden tab, still laying out) is applied once it has one.
+      const host = m.getContainer();
+      if (pendingFit.current && host.clientWidth > 0 && host.clientHeight > 0) {
+        const { bounds, maxZoom } = pendingFit.current;
+        pendingFit.current = null;
+        m.fitBounds(bounds, { padding: [40, 40], maxZoom });
+      }
+    });
     ro.observe(el.current);
     return () => {
       ro.disconnect();
@@ -107,7 +117,16 @@ export function MapView({ shapes = [], onSelect, selected, fit = true, center = 
     const key = shapes.map((s) => s.id).join(",");
     if (fit && all.length && key !== fittedKey.current) {
       fittedKey.current = key;
-      m.fitBounds(L.latLngBounds(all), { padding: [40, 40], maxZoom: shapes.length === 1 ? 16 : 15 });
+      const bounds = L.latLngBounds(all);
+      const maxZoom = shapes.length === 1 ? 16 : 15;
+      const host = m.getContainer();
+      if (host.clientWidth > 0 && host.clientHeight > 0) {
+        pendingFit.current = null;
+        m.invalidateSize();
+        m.fitBounds(bounds, { padding: [40, 40], maxZoom });
+      } else {
+        pendingFit.current = { bounds, maxZoom };
+      }
     }
   }, [shapes, selected, onSelect, fit]);
 
